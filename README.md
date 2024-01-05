@@ -1,4 +1,4 @@
-# scopus_abstract_mining
+# scopus_abstracts
 
 This repository allows the user to mine relevant abstracts from the Elsevier Scopus database through an API, and then extract topics contained within the abstracts with the Latent Dirichlet Allocation text mining algorithm.
 
