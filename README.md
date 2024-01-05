@@ -65,7 +65,7 @@ Use your python package manager (conda/miniconda/mamba) to cd into the root dire
 This should create a virtual environment called `scopus_abstract_mining` that will contain all the packages required to run this tool. I cannot guarantee that the environment will be resolved without conflicts (especially between the pip and conda packages). Some packages such as gensim and numba have been observed to create problems in the past. There may be a bit of tinkering with packages and versioning in the YML file that needs to be done to set the venv up correctly.
 
 # Setting up the Scopus API
-In order to use the scopus API, you will need an API key. Thankfully, NRC is a registered Scopus institution, and will provide you with one for making requests. Go to https://dev.elsevier.com/, and request an API key. You will have to enter in your NRC credentials, which they will then verify by sending you an email. An example API key has been included with this repository
+In order to use the scopus API, you will need an API key. If your organization is a registered Scopus institution, they will provide you with one for making requests. Go to https://dev.elsevier.com/, and request an API key. You will have to enter in your NRC credentials, which they will then verify by sending you an email. An example API key has been included with this repository
 
 # Setting up the python API key endpoint
 The first time `abstract_retreival.py` is run, a request for the API key should be presented to the user. If it isn't please run the following commands to verify the status of your API key locally.
