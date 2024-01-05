@@ -1,0 +1,27 @@
+Subject Area,Search key,Use
+Agriculture and biological sciences,agri,N
+Arts and humanities,arts,N
+"Biochemistry, genetics and molecular biology",bioc,N
+"Business, management and accounting",busi,N
+Chemical engineering,ceng,N
+Chemistry,chem,N
+Computer science,comp,N
+Decision sciences,deci,N
+Earth and planetary sciences,eart,N
+"Economics, econometrics and finance",econ,N
+Energy,ener,Y
+Engineering,engi,Y
+Environmental science,envi,Y
+Immunology and microbiology,immu,N
+Materials science,mate,Y
+Mathematics,math,N
+Medicine,medi,N
+Neuroscience,neur,N
+Nursing,nurs,N
+"Pharmacology, toxicology and pharmaceutics",phar,N
+Physics and astronomy,phys,N
+Psychology,pysc,N
+Social sciences,soci,N
+Veterinary,vete,N
+Dentistry,dent,N
+Health Professions,heal,N
