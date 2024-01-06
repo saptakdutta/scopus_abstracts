@@ -25,7 +25,7 @@ Use the homebrew package manager
 
 Once git is installed, `cd` into the directory that you want this project to be located in and then clone this repository like so:
 
-> git clone https://gitlabc.nrc-cnrc.gc.ca/Saptak.Dutta/scopus_abstract_mining/
+> git clone https://github.com/saptakdutta/scopus_abstracts
 
 You'll be prompted to enter in your gitlab username and password to clone the repo locally.
 Now go ahead to the next part to set up the virtual environment
